@@ -1,0 +1,7 @@
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\bin\Debug\ODEV.exe.config
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\bin\Debug\ODEV.exe
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\bin\Debug\ODEV.pdb
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\obj\Debug\Sayilari Yazi Ile Yaz.csprojAssemblyReference.cache
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\obj\Debug\Sayilari Yazi Ile Yaz.csproj.CoreCompileInputs.cache
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\obj\Debug\ODEV.exe
+D:\GitHupADD\Sayilari Yazi Ile Yaz\Sayilari Yazi Ile Yaz\obj\Debug\ODEV.pdb

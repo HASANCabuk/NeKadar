@@ -1,0 +1,13 @@
+c:\users\hp\Desktop\visuol stdio\ODEV\ODEV\bin\Debug\ODEV.exe.config
+c:\users\hp\Desktop\visuol stdio\ODEV\ODEV\bin\Debug\ODEV.exe
+c:\users\hp\Desktop\visuol stdio\ODEV\ODEV\bin\Debug\ODEV.pdb
+c:\users\hp\Desktop\visuol stdio\ODEV\ODEV\obj\Debug\ODEV.csprojResolveAssemblyReference.cache
+c:\users\hp\Desktop\visuol stdio\ODEV\ODEV\obj\Debug\ODEV.exe
+c:\users\hp\Desktop\visuol stdio\ODEV\ODEV\obj\Debug\ODEV.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\bin\Debug\ODEV.exe.config
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\bin\Debug\ODEV.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\bin\Debug\ODEV.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\obj\Debug\ODEV.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\obj\Debug\ODEV.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\obj\Debug\ODEV.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\ODEV\ODEV\ODEV\obj\Debug\ODEV.pdb
